@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Gestão de Produtos",
+    "slug": "gestao-produtos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.exemplo.gestaoprodutos"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
